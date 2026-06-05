@@ -272,10 +272,7 @@ Geospatial analysis highlights major accident concentration zones and high-risk 
 ## Project Structure
 
 ```text
-Traffic_Accident_Data_Analysis/
-│
-├── dataset/
-│   └── accidents_sample.csv
+Traffic_Accident_Data_Analysis/  
 │
 ├── outputs/
 │   ├── fig1_overview.png
