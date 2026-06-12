@@ -377,7 +377,6 @@ To run the project locally, place the dataset file in the project directory and 
 
 Aspiring Data Analyst and Machine Learning Enthusiast with a strong interest in data analysis, visualization, and machine learning.
 
-- GitHub: https://github.com/SriyaPatil
 - LinkedIn: https://linkedin.com/in/sriya-patil-63240332a
 
 ---
